@@ -8,6 +8,7 @@ Shared Unity module discovery and development plan. Reuse the maintained module 
 - [Module separation plan](D:/Codex/JigglyAI/Docs/MODULE_PLAN.md)
 - [Shared knowledge map](D:/Codex/UnityKnowledge/Docs/KNOWLEDGE_MAP.md)
 - [Unity engineering guidance](D:/Codex/UnityKnowledge/README.md)
+- [Shared UPM package hosting](Docs/PACKAGE_HOSTING.md)
 
 This project is `D:/Codex/JigglyAI`; it is not an assumed GitHub repository name. `Cheats.git` and `UiSnapshots.git` contain the maintained local cheats and UI screenshot repositories. Other modules may be maintained in their recorded source projects. Read their own APIs and installation instructions before integration.
 
