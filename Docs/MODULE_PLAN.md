@@ -2,7 +2,7 @@
 
 Updated: 2026-10-27.
 
-Reuse the [current catalog](https://chatgpt.com/space/page_7a8352f8c3b0819199c8721b363af600) first. Engineering rules belong to [UnityKnowledge](D:/Codex/UnityKnowledge/README.md). The entries below are proposed work, not published packages.
+Reuse the [current catalog](../README.md) first. Engineering rules belong to the shared UnityKnowledge handbook. The entries below are proposed work, not published packages.
 
 ## First pilot
 
