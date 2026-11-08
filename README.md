@@ -1,6 +1,6 @@
 # UnityGameModules
 
-Updated: 2026-10-29.
+Updated: 2026-11-08.
 
 Shared Unity module discovery and development plan. Reuse the maintained module before adding a local equivalent; keep game rules, configuration and adapters in the game.
 
@@ -16,6 +16,10 @@ This repository owns the concise module index and plan. Module code, releases an
 ## Material interaction
 
 `com.ji2.tactile-materials` 1.1.0 is maintained in the [Prototypes package](https://github.com/VadimCat/Prototypes/tree/357d83c855b437b00f6f5cf5308e248700f37f44/Packages/com.ji2.tactile-materials). It reuses the Codex Clean Rush snow, leaf and water core, with opt-in conserved transfers, gate masks, density, checkpoints, brush scaling and material presentation controls. Read its README for defaults, circular containment requirements, upstream provenance, the `com.ji2.reactive` dependency and exact installation. Keep goals, color stacks, authored levels, art direction and input adapters in the consuming game.
+
+## Cheats
+
+`com.ji2.cheats` 1.1.0 is maintained in [VadimCat/Cheats](https://github.com/VadimCat/Cheats/tree/v1.1.0) at `c82a0e2c58eab651e9de83ac7b68dc66a83b6127`. The package provides the shared cheat registry, Editor window, standard level commands, and an optional runtime panel. Ring Twist uses the GitHub pin and supplies its own level adapter. Authenticate Git for the private repository before importing the project.
 
 ## UI screenshots
 
