@@ -34,3 +34,11 @@ The table pins a reviewed revision for each package. UI Snapshots is a release c
 | [`com.maumau.game-parameters`](https://github.com/VadimCat/com.maumau.game-parameters/tree/c7b87d9db2a8c5c0ef0890df748e8daa7c6362e7) | Serialized parameter tables and CSV export in the Editor | `https://github.com/VadimCat/com.maumau.game-parameters.git#c7b87d9db2a8c5c0ef0890df748e8daa7c6362e7` |
 
 Packages hosted in `MyUpm` each have a dedicated release branch. Use the exact Git pin in the table.
+
+## Tools
+
+Offline tools that prepare assets for Unity. They are not Unity packages: pin the revision in the consuming project's tooling or documentation, and keep the game's options and file lists there.
+
+| Tool | Purpose | Revision |
+| --- | --- | --- |
+| [`rive-unity-fixup`](https://github.com/VadimCat/rive-unity-fixup/tree/b0ccdbdfbc106e6a4f361b9201550eb7f34c137b) | Converts Rive layer masks, which the Rive Unity runtime does not draw, into clipping shapes (Python 3.8+) | `https://github.com/VadimCat/rive-unity-fixup.git#b0ccdbdfbc106e6a4f361b9201550eb7f34c137b` |
